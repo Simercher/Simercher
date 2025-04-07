@@ -10,7 +10,7 @@
 - 🔧 我對嵌入式系統機器學習有濃厚興趣
 - 💡 我目前正在開發一個Qt GUI的DashBoard
 
-### 🚀 我的專案
+### 🚀 目前的專案
 [![DashBoard](https://github-readme-stats.vercel.app/api/pin/?username=simercher&repo=DashBoard)](https://github.com/simercher/DashBoard)
 
 <picture>
@@ -18,8 +18,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simercher/simercher/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/simercher/simercher/output/pacman-contribution-graph.svg">
 </picture>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
