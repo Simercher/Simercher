@@ -7,7 +7,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/simercher/simercher/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+<!-- _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_ -->
 
 
 <h3 align="left">Languages and Tools:</h3>
