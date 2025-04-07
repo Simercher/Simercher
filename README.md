@@ -1,5 +1,5 @@
 <h1 align="center">Hi , 我是林煜展</h1>
-<h3 align="left">I come form Taiwan Tainan</h3>
+<h3 align="left">我來自台灣台南</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simercher/simercher/output/pacman-contribution-graph-dark.svg">
@@ -7,7 +7,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/simercher/simercher/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_ -->
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,9 +52,4 @@
 
 ### Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simercher&layout=compact&langs_count=6&hide=Batchfile" alt="simercher" /></p>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simercher&layout=compact&langs_count=6&hide=Batchfile) -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Simercher&include_all_commits=true&rank_icon=github&show_icons=true" alt="simercher" /></p>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Simercher&include_all_commits=true&rank_icon=github&show_icons=true) -->
-
-<!-- tools:
-https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-icons -->
