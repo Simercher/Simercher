@@ -1,12 +1,10 @@
 <h1 align="center">Hi , 我是林煜展</h1>
 <h3 align="left">I come form Taiwan Tainan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simercher&label=Profile%20views&color=0e75b6&style=flat" alt="simercher" /> </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/poyu39/poyu39/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/poyu39/poyu39/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/poyu39/poyu39/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Simercher&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Simercher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
