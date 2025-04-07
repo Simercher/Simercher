@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, 我是林煜展</h1>
-<h3 align="left">我來自台南</h3>
+<h1 align="center">Hi , 我是林煜展</h1>
+<h3 align="left">I come form Taiwan Tainan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simercher&label=Profile%20views&color=0e75b6&style=flat" alt="simercher" /> </p>
 <picture>
