@@ -54,5 +54,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simercher&layout=compact&langs_count=6&hide=Batchfile" alt="simercher" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Simercher&include_all_commits=true&rank_icon=github&show_icons=true" alt="simercher" /></p>
 
-<h3 align="left">聯繫我</h3>
+### 聯繫我
+
 [![Gmail](https://img.shields.io/badge/-simercher@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:simercher@gmail.com)
