@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+GitHub!;ROS%20|%20Qt%20|%20C++%20|%20Python&center=true&width=380">
+</p>
+
 <h1 align="center">Hi , 我是林煜展</h1>
 <h3 align="left">我來自台灣台南</h3>
 
