@@ -2,9 +2,12 @@
 <h3 align="left">我來自台南</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simercher&label=Profile%20views&color=0e75b6&style=flat" alt="simercher" /> </p>
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/poyu39/poyu39/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/poyu39/poyu39/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/poyu39/poyu39/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/yz__1124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yz__1124" height="30" width="40" /></a>
