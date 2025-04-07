@@ -51,10 +51,8 @@
 
 
 ### Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simercher&layout=compact&langs_count=6&hide=Batchfile)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simercher&include_all_commits=true&rank_icon=github&show_icons=true)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simercher&layout=compact&langs_count=6&hide=Batchfile" alt="simercher" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Simercher&include_all_commits=true&rank_icon=github&show_icons=true" alt="simercher" /></p>
 
 ### 聯繫我
 
