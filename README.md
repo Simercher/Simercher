@@ -1,11 +1,7 @@
 <h1 align="center">Hi , 我是林煜展</h1>
 <h3 align="left">I come form Taiwan Tainan</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/simercher/simercher/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/poyu39/poyu39/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/poyu39/poyu39/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Simercher/Simercher/output/snake.svg" alt="Snake animation" />
 
 
 <h3 align="left">Languages and Tools:</h3>
