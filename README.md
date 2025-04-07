@@ -55,4 +55,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Simercher&include_all_commits=true&rank_icon=github&show_icons=true" alt="simercher" /></p>
 
 <h3 align="left">聯繫我</h3>
-[![Gmail](https://img.shields.io/badge/-yourname@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:yourname@gmail.com)
+[![Gmail](https://img.shields.io/badge/-simercher@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:simercher@gmail.com)
