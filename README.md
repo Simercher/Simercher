@@ -3,7 +3,15 @@
 </p>
 
 <h1 align="center">Hi , 我是林煜展</h1>
-<h3 align="left">我來自台灣台南</h3>
+
+### 👨‍💻 關於我
+
+- 🎓 我目前就讀於  逢甲大學資訊工程學系
+- 🔧 我對嵌入式系統機器學習有濃厚興趣
+- 💡 我目前正在開發一個Qt GUI的DashBoard
+
+### 🚀 我的專案
+[![DashBoard](https://github-readme-stats.vercel.app/api/pin/?username=simercher&repo=DashBoard)](https://github.com/simercher/DashBoard)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simercher/simercher/output/pacman-contribution-graph-dark.svg">
